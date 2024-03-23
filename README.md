@@ -17,4 +17,5 @@ Registration Page :-
 Home page :-
 
 
-![tasks](https://github.com/chaitanyakulkarni2k2/MERN_STACK-Task-Management-App/assets/108442884/90802a5d-2542-4066-8b0d-13d42d27d8e0)
+![tasks](https://github.com/chaitanyakulkarni2k2/MERN_STACK-Task-Management-App/assets/108442884/995b4f25-0042-47e6-a204-1f67664a3e6b)
+
